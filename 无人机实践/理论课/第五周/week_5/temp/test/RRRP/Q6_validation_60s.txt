@@ -1,4 +1,0 @@
-q1_act: final error -0.000222433 deg, max abs error after 10 s 0.00215927 deg
-q2_act: final error 0.000271944 deg, max abs error after 10 s 0.00688766 deg
-q3_act: final error 0.00187215 deg, max abs error after 10 s 0.0119954 deg
-d4_act: final error -4.41763e-05 m, max abs error after 10 s 4.41763e-05 m
