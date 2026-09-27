@@ -1,0 +1,8 @@
+Q1: x(0)=2, y(0)=3; closed periodic Lotka-Volterra orbit about (3,2).
+Q2: y(0)=2, y'(0)=0; trajectory approaches a stable limit cycle.
+Q3 open unity feedback: rise 10.7626 s, settle 19.2652 s, overshoot 0%.
+Q3 C(s)=(15s+250)/(.005s+1): rise 0.0454054 s, settle 0.203874 s, overshoot 6.78917%.
+Q4 parameters M1=1,M2=1,b1=2,b2=1,k=10.
+Q4 open poles: [0;-3.8963;-0.55185+2.7194i;-0.55185-2.7194i].
+Q4 C(s)=(12s+45)/(.01s+1): rise 0.137179 s, settle 1.52659 s, overshoot 5.53766%.
+Q4 closed poles: [-86.196;-13.252;-3.6831;-0.93465+3.1342i;-0.93465-3.1342i].
