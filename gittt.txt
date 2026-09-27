@@ -1,0 +1,6 @@
+git rm -r --cached -- "无人机实践/理论课/第五周/第五周/week_5/temp"
+
+git status --short
+git diff --cached --stat
+git commit -m "Stop tracking week_5 temp files"
+git push origin main

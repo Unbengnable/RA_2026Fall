@@ -1,0 +1,6 @@
+题目1  Lotka–Volterra 捕食模型
+
+方程：x'=4x-2xy，y'=xy-3y；初值 x(0)=2，y(0)=3。
+Q1_Lotka_Volterra.slx 用 Integrator、Product、Gain、Sum 搭建，未使用 MATLAB Function。
+Q1.png 左图为两种群数量随时间的变化，右图为相轨迹。
+结果：x、y 均作周期性振荡，且峰值出现的时间不同；相轨迹围绕非零平衡点 (3,2) 形成闭轨。
